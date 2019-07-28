@@ -13,15 +13,15 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: 费东
-  tagline: Developer. Designer
+  tagline: 图像. 深度学习. 机器学习
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    #twitter: free-dong
+    github:  free-dong
+    #linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
