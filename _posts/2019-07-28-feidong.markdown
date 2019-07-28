@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "费东的简历"
+date:   2019-07-28 21:03:36 +0530
+categories: 图像处理 深度学习
+
+---
+费东
+Remote sensing has become a primary technology for monitoring raft aquaculture products. However, due to the complexity of the marine aquaculture environment, the boundaries of the raft aquaculture areas in remote sensing images are often blurred, which will result in 'adhesion' phenomenon in the raft aquaculture areas extraction. The fully convolutional network (FCN) based methods have made great progress in the field of remote sensing in recent years. In this paper, we propose an FCN-based end-to-end raft aquaculture area extraction model (which is called UPS-Net) to overcome this difficulty. The UPS-Net contains an improved U-Net and a PSE structure. The improved U-Net can simultaneously capture boundary and contextual information of raft aquaculture areas from remote sensing images. The PSE structure can adaptively fuse multiscale feature maps to reduce the 'adhesion' phenomenon of raft aquaculture area extraction. Further, to verify the effectiveness of our model, we selected the coastal sea area of Lianyungang in China as the research region. The experimental results show that compared with several state-of-the-art models, the proposed UPS-Net model performs well at extracting raft aquaculture areas and can significantly reduce the 'adhesion' phenomenon.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
