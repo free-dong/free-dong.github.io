@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: 费东
-  tagline: 图像. 深度学习. 机器学习
+  tagline: 图像处理 · 深度学习
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
