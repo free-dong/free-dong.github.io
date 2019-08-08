@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "费东的简历"
-date:   2019-07-28 21:03:36 +0530
-categories: 图像处理 深度学习 机器学习
+title:  "Windows-Anaconda3+TensorFlow安装教程"
+date:   2018-12-15 08:52:12
+categories: Anaconda3 TensorFlow install
 ---
 
 # __测试环境：win10-64位和win7-64位__
