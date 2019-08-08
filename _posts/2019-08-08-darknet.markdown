@@ -10,7 +10,6 @@ categories: darknet 深度学习
 [官网:](https://pjreddie.com/) https://pjreddie.com/
 [Github:](https://github.com/pjreddie/darknet.git) https://github.com/pjreddie/darknet.git
 
-<div align=center> 
 <img src="https://img-blog.csdnimg.cn/20190506135225613.png"  alt="图片名称" />
 
 Darknet是一个用C和CUDA编写的开源神经网络框架。它速度快，易于安装，并支持CPU和GPU计算。
@@ -29,7 +28,6 @@ cd darknet
 ```python
 vi Makefile
 ```
-<div align=center> 
 <img src="https://img-blog.csdnimg.cn/20190506141953931.png"  alt="图片名称" />
 
 编译
@@ -50,7 +48,6 @@ usage: ./darknet <function>
 接下来我们在官网中下载训练好YOLO权重文件（weights）：
 [darknet权重文件](https://pjreddie.com/darknet/yolo/)
 
-<div align=center> 
 <img src="https://img-blog.csdnimg.cn/20190506143537857.png"  alt="图片名称" />
 
 执行预测
@@ -61,10 +58,8 @@ usage: ./darknet <function>
 ```
 得到输出：
 
-<div align=center> 
 <img src="https://img-blog.csdnimg.cn/20190506161754688.png"  alt="输出" />
 
 预测图像：
 
-<div align=center> 
 <img src="https://img-blog.csdnimg.cn/2019050615593930.jpg"  alt="预测图像" />
