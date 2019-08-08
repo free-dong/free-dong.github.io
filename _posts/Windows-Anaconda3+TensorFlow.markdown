@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "费东的简历"
+date:   2019-07-28 21:03:36 +0530
+categories: 图像处理 深度学习 机器学习
+---
+
 # __测试环境：win10-64位和win7-64位__
 （系统必须是64位，因为TensorFlow目前只支持64位）
 # 一、安装Anaconda3
