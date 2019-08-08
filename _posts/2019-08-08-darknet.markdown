@@ -7,10 +7,12 @@ categories: darknet 深度学习
 
 本文主要记录自己安装Darknet过程，以及看到的一些大神的博客。
 # 1.Darknet介绍
-[官网:](https://pjreddie.com/) https://pjreddie.com/
-[Github:](https://github.com/pjreddie/darknet.git) https://github.com/pjreddie/darknet.git
 
 <img src="https://img-blog.csdnimg.cn/20190506135225613.png"  alt="图片名称" />
+
+
+[官网:](https://pjreddie.com/) https://pjreddie.com/
+[Github:](https://github.com/pjreddie/darknet.git) https://github.com/pjreddie/darknet.git
 
 Darknet是一个用C和CUDA编写的开源神经网络框架。它速度快，易于安装，并支持CPU和GPU计算。
 博客1 [Darknet概述，并总结了其优点](https://blog.csdn.net/u010122972/article/details/83541978)
