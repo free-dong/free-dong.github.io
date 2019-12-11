@@ -6,7 +6,7 @@ categories: darknet 深度学习
 ---
 
 本文主要记录自己安装Darknet过程。
-# 1.Darknet介绍
+## 1.Darknet介绍
 
 <img src="https://img-blog.csdnimg.cn/20190506135225613.png"  alt="图片名称" />
 
@@ -19,7 +19,7 @@ Darknet是一个用C和CUDA编写的开源神经网络框架。它速度快，�
 博客2 [目标检测：YOLOv3: 训练自己的数据](https://blog.csdn.net/lilai619/article/details/79695109)
 Github1 [darknet深度学习框架源码分析：详细中文注释](https://github.com/hgpvision/darknet)
 
-# 2.在linux下安装Darknet
+## 2.在linux下安装Darknet
 下载源码：
 ```python
 git clone https://github.com/pjreddie/darknet.git
@@ -45,7 +45,7 @@ make
 usage: ./darknet <function>
 ```
 大功告成，接下来就可以使用Darknet了。
-# 3.使用Darknet目标检测
+## 3.使用Darknet目标检测
 在cfg文件夹下包含了很多设置好的网络模型（类似caffe）。
 接下来我们在官网中下载训练好YOLO权重文件（weights）：
 [darknet权重文件](https://pjreddie.com/darknet/yolo/)
